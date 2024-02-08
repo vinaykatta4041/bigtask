@@ -1,0 +1,38 @@
+body{
+    padding-bottom: 10px;
+    padding-left: 20%;
+    padding-right: 20%
+}
+.line{
+    background-color: black;
+    height: 3px;
+}
+.pad{
+    margin-left: 60px;
+}
+img{
+    height: 250px;
+    width: 450px;
+}
+.sline{
+    background-color: black;
+    height: 2px;
+}
+table,th,td{
+     border: 1px solid black;
+  border-collapse: collapse;
+}
+.pic{
+    width:500px;
+    height: 60px;
+}
+.tabl{
+    width: 750px;
+    height: 720px;
+}
+.abc{
+     width: 900px;
+    height: 1000px;
+}
+
+
